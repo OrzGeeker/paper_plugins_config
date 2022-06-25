@@ -1,0 +1,24 @@
+# GetMeHome by Simon Chuu
+
+# For help, follow the plugin project link below:
+# https://github.com/SimonOrJ/GetMeHome/
+
+# Storage settings
+storage:
+  # should the plugin save player names with their UUID?
+  # This is only for your reference when looking through the file.
+  savename: true
+
+message:
+  # Prefix for beginning of message. Use &[0-9a-f] to set colors.
+  prefix: "&6[GetMeHome]"
+  # Colors: Accepted values are 0~9 or a~f.
+  # https://minecraft.gamepedia.com/Formatting_codes
+  content-color: e
+  # Color for the focus points. e.g. home names or player names
+  focus-color: f
+
+# Maximum distance away from home point for "Welcome home" message to not show
+# on /home
+#   Set to -1 to disable "Welcome home" message
+welcome-home-radius: 4

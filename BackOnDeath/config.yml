@@ -1,0 +1,20 @@
+vault:
+  use: false
+  price: 0
+  currency: $
+locations:
+  ed7f7e5e-8619-3037-8d70-b9edb730637a: world,90877,-305,-88611
+  a629f93e-f01e-3b8a-9eca-94e2d3e05f70: world,90824,-133,-88572
+  530fa97a-357f-3c19-94d3-0c5c65c18fe8: world_nether,13,29,33
+  fede7477-8f69-38c8-936c-14f951f605e3: world_nether,-3,33,33
+  80f59955-ad64-3121-8ca7-875a27372d12: world_nether,6,28,36
+  bc52dfa8-837f-3d10-8a36-c31957cc2714: world,145,69,162
+  df786cac-dcb0-391a-9709-fdecf26bc361: world,18265,75,-1455
+  8822641f-b4ca-3297-8e01-e3a9756096be: world,11,80,-1875
+  ee4c7583-be99-3748-a688-f9a92de21e8b: world,68,64,147
+  6935faeb-7168-3825-b450-aac508dc78f2: world,2,71,367
+  a95524cb-c091-34d9-9dcd-82777cafd5cb: world_the_end,217,-149,-25
+  d503cbd1-d83d-3656-a683-5c4c5847ad8f: world,-109,38,-1988
+  5e4c3922-aa4f-3fd3-8ab2-ea37bc51c5b6: world,10048,68,-204
+  de6d687f-cbe0-3067-ab86-baee945e32fb: world,376,68,365
+  bbb8b47e-0321-3e2c-9013-eb966791f86d: world,127,65,161

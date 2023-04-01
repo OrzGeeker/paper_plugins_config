@@ -76,11 +76,13 @@ EnableWorldGuardDetection: false
 
 # List of excluded worlds
 ExcludedWorld:
-  - MyWorldWithoutDeadChest
-  - AnotherExampleOfWorldWithoutDeadChest
+- MyWorldWithoutDeadChest
+- AnotherExampleOfWorldWithoutDeadChest
 
 # List of excluded items
 # Be sure to put here the ItemStack name of the entity you want to exclude
 ExcludedItems:
-  - ITEM_TO_EXCLUDE_EXAMPLE
-  - HEROBRINE
+- ITEM_TO_EXCLUDE_EXAMPLE
+- HEROBRINE
+IndestructibleChest: true
+auto-update: true

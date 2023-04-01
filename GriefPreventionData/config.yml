@@ -175,3 +175,4 @@ GriefPrevention:
       Administrative Activity: false
       Debug: false
       Muted Chat Messages: false
+  ConfigVersion: 1

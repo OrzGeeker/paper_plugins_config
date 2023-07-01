@@ -86,3 +86,4 @@ ExcludedItems:
 - HEROBRINE
 IndestructibleChest: true
 auto-update: true
+StoreXP: false
